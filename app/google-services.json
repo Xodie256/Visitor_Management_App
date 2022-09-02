@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371974859484",
+    "project_id": "visitor-man",
+    "storage_bucket": "visitor-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371974859484:android:46590e70e060c82380a219",
+        "android_client_info": {
+          "package_name": "com.example.visitormanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371974859484-cvtugot3g6oo0efbq89ldli3e8g0dnt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxKdeV6FgMky2akmSmjxsB38HqEds7Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371974859484-cvtugot3g6oo0efbq89ldli3e8g0dnt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

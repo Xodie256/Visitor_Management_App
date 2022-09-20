@@ -3,11 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v21/ic_menu_gallery.xml" value="0.113" />
         <entry key="app/src/main/res/drawable/button_bg.xml" value="0.1815" />
         <entry key="app/src/main/res/drawable/edit_textview.xml" value="0.1815" />
+        <entry key="app/src/main/res/drawable/selector.xml" value="0.1805" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/activity_landing.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_landing2.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/content_landing2.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_contact.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_faqs.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_help.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_rate.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_records.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/fragment_statistics.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/nav_header_landing2.xml" value="0.16" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.17291666666666666" />
       </map>
     </option>
   </component>

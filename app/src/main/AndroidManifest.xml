@@ -14,8 +14,10 @@
         android:theme="@style/Theme.VisitorManagementApp"
         tools:targetApi="31">
         <activity
-            android:name=".Home"
-            android:exported="false" />
+            android:name=".landing2"
+            android:exported="false"
+            android:label="@string/title_activity_landing2"
+            android:theme="@style/Theme.VisitorManagementApp.NoActionBar" />
         <activity
             android:name=".Register"
             android:exported="false" />

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.visitormanagementapp.ui.contact.contact"
+        android:label="@string/menu_contact"
+        tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.visitormanagementapp.ui.settings.settings"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_faqs"
+        android:name="com.example.visitormanagementapp.ui.faqs.faqs"
+        android:label="@string/menu_faqs"
+        tools:layout="@layout/fragment_faqs" />
+    <fragment
+        android:id="@+id/nav_statistics"
+        android:name="com.example.visitormanagementapp.ui.statistics.statistics"
+        android:label="@string/menu_statistics"
+        tools:layout="@layout/fragment_statistics" />
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.visitormanagementapp.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_register"
+        android:name="com.example.visitormanagementapp.ui.register.register"
+        android:label="@string/menu_register"
+        tools:layout="@layout/fragment_register" />
+    <fragment
+        android:id="@+id/nav_rate"
+        android:name="com.example.visitormanagementapp.ui.rate.rate"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_rate" />
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.example.visitormanagementapp.ui.help.help"
+        android:label="@string/menu_help"
+        tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/nav_records"
+        android:name="com.example.visitormanagementapp.ui.records.records"
+        android:label="@string/menu_records"
+        tools:layout="@layout/fragment_records" />
+
+</navigation>

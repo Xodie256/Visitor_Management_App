@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button button11;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,9 +36,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(new Intent(this, Register.class));
                 break;
         }
-        switch(view.getId()) {
+        switch(view.getId()){
             case R.id.button11:
-                startActivity(new Intent(this,Home.class));
+                startActivity(new Intent(this, landing2.class));
                 break;
         }
     }

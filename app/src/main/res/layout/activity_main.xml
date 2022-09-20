@@ -28,11 +28,11 @@
 
     <Button
         android:id="@+id/button11"
-        android:layout_width="320dp"
-        android:layout_height="wrap_content"
+        android:layout_width="318dp"
+        android:layout_height="56dp"
+        android:background="@drawable/button_bg"
         android:text="LOGIN"
         android:textColor="@color/white"
-        android:background="@drawable/button_bg"
         android:textSize="26sp"
         android:textStyle="bold"
         app:backgroundTint="#2FAEA2"
@@ -48,6 +48,10 @@
         android:layout_width="417dp"
         android:layout_height="63dp"
         android:text="Visitor Manager"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="20dp"
         android:textAlignment="center"
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -61,16 +65,20 @@
         android:id="@+id/textView"
         android:layout_width="406dp"
         android:layout_height="34dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="10dp"
         android:text="Your visitor security"
         android:textAlignment="center"
         android:textSize="18sp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.404"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.176" />
+        app:layout_constraintVertical_bias="0.193" />
 
     <TextView
         android:id="@+id/textView2"
